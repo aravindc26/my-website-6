@@ -5,7 +5,7 @@ description: Get Velu AI connected to your documentation repository, ingest key 
 sidebar_label: Quick Start
 ---
 
-This guide helps new teams bring Velu AI online and publish their first AI-assisted documentation update. It draws on the Velu AI Product Requirements Document (v1.0, updated November 14, 2025) and the current onboarding flow.
+This guide helps new teams bring Velu AI online and publish their first AI-assisted documentation update. It draws on the Velu AI Product Requirements Document (v1.0, updated November 14, 2026) and the current onboarding flow.
 
 ## 1. Prerequisites
 
@@ -31,7 +31,7 @@ After the initial wizard, add or verify the ingestion feeds that fuel Velu AI’
 - **Confluence, Notion, or other doc hubs**: Sync existing knowledge bases so Velu can detect stale content.
 - **Google Drive**: Index shared docs, slide decks, and transcripts that inform product knowledge.
 
-These connectors help Velu AI reach the automation targets defined in the PRD (e.g., <5% stale docs, 70% automation coverage, 24-hour update latency).
+These connectors help Velu AI reach the automation targets defined in the PRD (e.g., <5 % stale docs, 70% automation coverage, 24-hour update latency).
 
 ## 4. Configure documentation publishing
 
