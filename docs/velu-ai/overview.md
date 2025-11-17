@@ -34,4 +34,4 @@ Velu AI is an autonomous documentation assistant designed to keep product knowle
 
 ## What to expect next
 
-Phase 1 targets a Q1Q2 2026 launch with the foundational ingestion, automation, and publishing workflows. Future phases expand into autonomous UI recording for "how-to" guides, personalized documentation per customer version, and eventually a fully continuous documentation engine that requires little to no manual intervention.
+Phase 1 targets a Q1 Q2 2026 launch with the foundational ingestion, automation, and publishing workflows. Future phases expand into autonomous UI recording for "how-to" guides, personalized documentation per customer version, and eventually a fully continuous documentation engine that requires little to no manual intervention.
